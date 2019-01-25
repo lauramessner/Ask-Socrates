@@ -60,8 +60,6 @@ def train_markov_model():
     for word_pair, next_word_list in transitions.items():
         transitions[word_pair] = list2probabilitydict(next_word_list)
     
-    print('Training successful.')
-    
 train_markov_model()
     #Markov Chains imported from Andrej Karpathy’s GitHub repository
         
