@@ -1,7 +1,7 @@
 # Ask-Socrates
 
 By incorporating Plato’s Dialogues and Wikipedia articles, Ask Socrates generates text written in the style of the Dialogues
-while featuring content about recent event such as World War II, fake news, and the meetoo movement. I coded in Python and
+while featuring content about recent event such as World War II, fake news, and the Mee Too movement. I coded in Python and
 used Google Colab to train the models. Imported Markov Chains from Andrej Karpathy's GitHub repository. Although the grammar
 and punctuation of the resulting texts aren't perfect, my starting point with creating this app was to bring ancient
 philosophy to the questions of recent events, which we often fail to deeply contemplate upon in the hastle of daily life. 
