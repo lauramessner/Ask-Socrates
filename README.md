@@ -7,7 +7,7 @@ and punctuation of the resulting texts aren't perfect, my starting point with cr
 philosophy to the questions of recent events, which we often fail to deeply contemplate upon in the hastle of daily life. 
 However, the resulting text is rather a funny reading than a rigorous philosophical contemplation. 
 
-Some excerpts: 
+####Some excerpts: 
 
  euthyphro: the unitary technique by which i intend to carry out in act and train and eat and drink in the napoleonic wars
  
